@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html, body {
+    overscroll-behavior: none;
+}
+
+@theme {
+    --font-custom: "Noto Sans JP", "sans-serif";
+}

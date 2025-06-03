@@ -1,0 +1,36 @@
+# .dockerignore
+.venv
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+.env
+.nyc_output
+coverage
+.vscode
+.DS_Store
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.idea
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Vue.js関連
+vue-frontend/node_modules
+vue-frontend/dist
