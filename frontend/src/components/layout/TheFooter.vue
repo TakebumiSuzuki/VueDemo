@@ -5,7 +5,7 @@
 <template>
 
     <div class="py-8 bg-zinc-800 text-zinc-100">
-        <div class="max-w-[1200px] mx-auto px-16 ">
+        <div class="max-w-[1200px] mx-auto md:px-16 px-4">
             <h2 class="text-5xl font-medium text-center pt-12 pb-10">CONTACT</h2>
 
             <div class="md:flex md:flex-row md:justify-center md:items-start md:gap-16 mt-6">

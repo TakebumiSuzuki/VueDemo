@@ -128,7 +128,7 @@
 
 
 <template>
-        <div class="px-12 pb-7 -mt-4">
+        <div class="px-4 md:px-12 pb-7 -mt-4">
             <input
                 type="text"
                 v-model="searchQuery"
@@ -141,7 +141,7 @@
     <div
         v-if="products && products.length"
         ref="containerRef"
-        class="grid gap-7 grid-cols-1 md:grid-cols-3 max-w-[1200px] px-12 mx-auto mb-16"
+        class="grid gap-7 grid-cols-1 md:grid-cols-3 max-w-[1200px] px-4 md:px-12 mx-auto mb-16"
     >
         <div
         v-for="product in products"

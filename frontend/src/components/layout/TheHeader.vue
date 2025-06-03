@@ -39,7 +39,7 @@
 <template>
 
     <div
-        class="fixed top-0 left-0 right-0 z-10 flex flex-row justify-between items-center px-12 py-5  bg-white dark:bg-zinc-800 shadow-md"
+        class="fixed top-0 left-0 right-0 z-10 flex flex-row justify-between items-center px-4 md:px-12 py-5  bg-white dark:bg-zinc-800 shadow-md"
         ref="headerRootElement"
     >
         <!-- ロゴ -->

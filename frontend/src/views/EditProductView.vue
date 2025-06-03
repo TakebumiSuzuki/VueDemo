@@ -241,7 +241,7 @@
 
 
 
-    <div class="bg-zinc-200 dark:bg-zinc-700 flex items-center justify-center py-12 px-8">
+    <div class="bg-zinc-200 dark:bg-zinc-700 flex items-center justify-center py-12 px-4 md:px-12">
 
         <div class="max-w-3xl w-full space-y-12 bg-white dark:bg-zinc-800 pt-12 pb-16 px-10 shadow-xl text-zinc-800 dark:text-zinc-100 rounded">
 

@@ -50,7 +50,7 @@
 </script>
 
 <template>
-    <div class="max-w-[1200px] mx-auto px-16 pb-20">
+    <div class="max-w-[1200px] mx-auto px-4 md:px-16 pb-20">
         <SectionTitle text="Item Info" />
 
         <div v-if="isLoading" class="min-h-[40vh] flex justify-center">
